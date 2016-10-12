@@ -1,6 +1,6 @@
 {
   "name": "localhostips",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "获得本地ip",
   "main": "index.js",
   "scripts": {
